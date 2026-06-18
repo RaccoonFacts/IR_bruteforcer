@@ -2,7 +2,6 @@
 
 A Flipper Zero FAP for brute-forcing infrared signals across common device categories. Built for owned hardware research, toy hacking, and IR exploration.
 
-Made by **RaccoonFacts** — [youtube.com/@RaccoonFacts](https://youtube.com/@RaccoonFacts)
 
 ---
 
